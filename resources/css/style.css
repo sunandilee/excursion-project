@@ -24,4 +24,21 @@ p{
 
 a{
   font-size:16px;
+  display:block;
+  color:aquamarine;
+  font-family:verdana;
+  font-weight:500;
+  margin:20px;
+}
+
+.img{
+  display:block;
+  margin:21px;
+}
+
+footer{
+  text-align:right;
+  color:grey;
+  font-size:25px;
+  font-family:verdana,serif;
 }
