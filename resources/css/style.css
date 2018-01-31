@@ -42,14 +42,3 @@ footer{
   font-size:25px;
   font-family:verdana,serif;
 }
-
-@media only screen and (max-width:500px){
-  body{
-    text-align: left;
-    background-color:green;
-
-  }
-  .big{
-    width:20px;
-  }
-}
