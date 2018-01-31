@@ -47,6 +47,9 @@ footer{
   body{
     text-align: left;
     background-color:green;
-  }
 
+  }
+  .big{
+    width:200px;
+  }
 }
